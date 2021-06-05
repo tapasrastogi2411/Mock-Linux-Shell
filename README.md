@@ -2,7 +2,7 @@
 
 ### About the Project
 
-Implementation of a Mock Shell program which covers all the main linux commands using the Agile SCRUM Software Development Process in Java, using the principles of Object-Oriented Programming. This was done using all the paradigms of Agile Software Development and various software design choices ensuring all stages were followed for timely completion mock user and client requirements.
+Implementation of a Mock Shell program which covers all the main linux commands using the Agile SCRUM Software Development Process in Java and the principles of Object-Oriented Programming. This was done using all the paradigms of Agile Software Development and various software design choices ensuring all stages were followed for timely completion mock user and client requirements.
 
 Designed a set of CRC Cards, user stories, product backlog, followed daily sprint schedule as per industry maintained Agile SCRUM methodology, which was coupled with unit testing at each stage of the project! 
 
