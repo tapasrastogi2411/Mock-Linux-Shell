@@ -44,3 +44,11 @@ Version Control Software originally used throughout this project - Subversion(SV
 - Redirection 
 - Tree
 - Search
+
+### Team members 
+
+This project couldnt have been completed without the help and contirbution of the following amazing people :) 
+
+- Anaqi Amir
+- Balraj Kharol
+- Shashwat Doshi
