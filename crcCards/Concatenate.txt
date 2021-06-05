@@ -1,0 +1,11 @@
+Class Name: Concatenate 
+Parent Class: Commands
+Subclasses: None
+
+Responsibilities:
+* To print the contents of the argument file in the current directory
+
+Collaborators:
+* FileSystem
+* File
+* Redirection

@@ -1,0 +1,12 @@
+Class Name: Echo
+Parent Classes: Commands
+Subclasses: None
+
+Responsibilities: 
+* Appends the string STRING in the file OUTFILE if it exists
+* Creates the file OUTFILE if it doesn't exist, and appends the string STRING in OUTFILE
+* Deletes all preexisting content in OUTFILE before appending STRING into OUTFILE
+
+Collaborators:
+* File
+* FileSystem

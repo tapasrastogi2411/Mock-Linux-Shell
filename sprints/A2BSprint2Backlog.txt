@@ -1,0 +1,84 @@
+//Sprint 2 Backlog
+November 23rd to November 30th
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to remove a directory so that the directory does not exist in the file system anymore.
+b) As a user, I want to create new directories that may be relative to the current directory 
+   or may be a full path, so that I can store contents inside the directories I have just created.
+c) As a user, I want to see the contents of the directory of my choice as well as the 
+   contents of its subdirectories if I choose to, so that I can know the contents of a directory.
+d) As a user, I want to move directories/files based on the path that I have provided, 
+   so that the directories/files is located in a new location in the file system. 
+e) As a user, I want to copy directories/files of my choice, 
+   so that I can have two copies of the same directories/files in the file system.
+f) As a user, I want to see the contents of the files that I have chosen, so that I know that contents of any file.
+g) As a user, I want to add a file from a URL that I have given to the directory that I am in 
+   so that I have a copy of an external file in my internal system.
+h) As a user, I want to print the text that I have entered so that I can see the text in the system.
+i) As a programmer, I want to see the documentation for the command, so that I can learn more about each command.
+j) As a user, I want to save the JShell so that my files will be saved even after I turn off my computer.
+k) As a user, I want to load the JShell so that I can interact with the file system and its contents to perform other tasks.
+l) As a user, I want to search for directories or files in the file system 
+   so that I can know whether the directory or file I am looking for exists.
+m) As a user, I want to see the structure of the file system 
+   so that I know where all my directories and files are located within the file system.
+n) As a user, I want to see the recent commands that I have used in the terminal session, 
+   so that I know the previously used commands and I can reuse them accordingly.
+o) As a user, I want to see the whole path of the current working directory, 
+   so that I know the exact path of the directory I am in.
+
+
+Specific tasks to be accomplished:
+a-1. Test Remove class using JUnit testing
+a-2. Update Remove to handle edge cases (if necessary)
+b-1. Test MakeDirectory class using JUnit testing
+b-2. Update MakeDirectory to handle edge cases (if necessary)
+c-1. Test List class using JUnit testing
+c-2. Update List to handle edge cases (if necessary)
+c-3. Code Redirection into List
+d-1. Test Move class using JUnit testing
+d-2. Update Move to handle edge cases (if necessary)
+e-1. Test Copy class using JUnit testing
+e-2. Update Copy to handle edge cases (if necessary)
+f-1. Test Concatenate class using JUnit testing
+f-2. Update Concatenate to handle edge cases (if necessary)
+f-3. Code Redirection into Concatenate
+g-1. Test Curl class using JUnit testing
+g-2. Update Curl to handle edge cases (if necessary)
+h-1. Test Echo class using JUnit testing
+h-2. Update Echo to handle edge cases (if necessary)
+h-3. Code Redirection into Echo
+i-1. Test PrintDocumentation class using JUnit testing
+i-2. Update PrintDocumentation to handle edge cases (if necessary)
+i-3. Code Redirection into PrintDocumentation
+j-1. Code SaveJShell class
+j-2. Test SaveJShell class using JUnit testing
+j-3. Update SaveJShell to handle edge cases (if necessary)
+k-1. Code LoadJShell class
+k-2. Test LoadJShell class using JUnit testing
+k-3. Update LoadJShell to handle edge cases (if necessary)
+l-1. Test Search class using JUnit testing
+l-2. Update Search to handle edge cases (if necessary)
+l-3. Code Redirection into Search
+m-1. Code Tree class (must include files)
+m-2. Test Tree class using JUnit testing
+m-3. Update Tree to handle edge cases (if necessary)
+m-4. Code Redirection into Tree
+n-1. Code Redirection into PrintRecentCommands
+o-1. Code Redirection into PrintWorkingDirectory
+
+
+These tasks are assigned as follows:
+
+User: Anaqi Amir
+Tasks: a-1, a-2, h-1, h-2, h-3, j-1, j-2, j-3, k-1, k-2, k-3
+
+User: Balraj Kharol
+Tasks: d-1, d-2, e-1, e-2
+
+User: Shashwat Doshi
+Tasks: c-1, c-2, c-3, f-1, f-2, f-3, g-1, g-2, i-3, l-1, l-2, l-3, m-4, n-1, o-1
+
+User: Tapas Rastogi
+Tasks:  b-1, b-2, m-1, m-2, m-3, i-1, i-2
+

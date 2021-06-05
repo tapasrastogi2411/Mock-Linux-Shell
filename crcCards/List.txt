@@ -1,0 +1,12 @@
+Class name: List
+Parent class: Commands
+Subclasses: None
+
+Responsibilities:
+* Print the names of files and folders in the current directory, 
+with a new line following each of them.
+
+Collaborators:
+* ErrorChecking
+* FileSystem
+* Redirection

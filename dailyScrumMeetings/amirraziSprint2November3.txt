@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - continued the coding for EchoAppend, EchoOverwrite, PrintDocumentation, ChangeDirectory
+    - Finished coding for PromptUserInput and JShell
+    - helped with some coding in the Commands class
+
+What do I plan to work in the next three days?
+    - Complete the code that I am responsible for PrintDocumentation and ChangeDirectory
+    - Complete my section of the coding for the Commands class that has recently been designated to me
+
+Am I blocked on anything?
+    - ChangeDirectory prove to be challenging so I will be asking for Shashwat's help with it. 

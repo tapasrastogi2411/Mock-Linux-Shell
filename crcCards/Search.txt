@@ -1,0 +1,11 @@
+Class name: Search
+Parent class: Commands
+Subclasses: None
+
+Responsibilities:
+* Search for the specific files/directories based on the name and path given.
+
+Collaborators:
+* File
+* Directory
+* Redirection

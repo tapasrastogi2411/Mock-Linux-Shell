@@ -1,0 +1,10 @@
+Class Name: File
+Parent Class: None
+Subclasses: None
+
+Responsibilities:
+* Provides access to the content of the files in the local computer.
+* Can add/append/remove files which are situated into the particular directory.
+
+Collaborators:
+* Directory

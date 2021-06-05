@@ -1,0 +1,31 @@
+a) What did I work on in the last three days? 
+
+   - Completed the coding part for FileSystem, File and Directory classes
+
+   - Started coding part for MakeDirectory class
+
+   - Collaborated with my teammates to accomodate their command requirements in my commands 
+
+   - Helped my teammates with implementing of some of their coding parts
+
+
+b) What do I plan to work in the next three days? 
+
+   - Complete the coding part for MakeDirectory class and run sufficient tests to ensure that it actually creates directories as required
+
+   - Testing the Concatenate Command that was implemented by my teammates to ensure that it does what is required of it
+
+   - Edit FileSystem class ( if needed) to accomodate the other commands my teammates are working on and also do testing to ensure that a proper FileSystem structure is created by the program 
+
+   - Testing the PathParser Command implemented by me teammates
+
+   - Testing to see if the overall program runs smoothly 
+
+  
+c) Am I blocked on anything? 
+
+   - The MakeDirectory Command coding implementation. Still not sure how to go about implementing it correctly
+
+    - Blocked on how to go about implementing the MakeDirectory, FileSystem classes
+    
+    

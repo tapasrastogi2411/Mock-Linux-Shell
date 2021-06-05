@@ -1,0 +1,10 @@
+Class Name: Directory 
+Parent Class: None
+Subclasses: None
+
+Responsibilities:
+* Provides access to the content of the directories situated in the local computer.
+* Can Add/Modify the structure/content inside the directory.
+
+Collaborators:
+* File

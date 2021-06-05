@@ -1,0 +1,11 @@
+Class Name: Copy
+Parent Class: Commands
+Subclasses: Move
+
+Responsibilities:
+* Copy the items from one directory to another.
+
+Collaborators:
+* FileSystem
+* File
+* Directory

@@ -1,0 +1,12 @@
+a) What did I work on in the last three days?
+
+    - Finished coding the features of List, ErrorChecking.
+    - Started implementing the PrintRecentCommand/History class.
+
+b) What do I plan to work in the next three days?
+
+   - I plan on finishing the code for history class and get the structure done for Pushd and popd which will be merged into a classed name DirectoryStack.
+
+c) Am I blocked on anything?
+
+   - How to traverse a Qeueu<String> list in order to print the recent command the user has entered.

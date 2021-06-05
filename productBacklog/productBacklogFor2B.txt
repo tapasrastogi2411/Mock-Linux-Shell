@@ -1,0 +1,119 @@
+
+____________________________________________________________________
+             User Stories                   |  Time Estimate(hours) |
+____________________________________________|_______________________|
+Remove Directory			    |			    |
+         				    |                	    |   
+As a user, I want to remove a directory so  |		4	    |
+that the directory does not exist in the    |                       |
+file system anymore.                        |                       |
+____________________________________________|_______________________|                                    
+Make New Directories		    	    |			    |
+					    |			    |
+As a user, I want to create new directories |			    |
+that may be relative to the current         |		1	    |
+directory or may be a full path, so that    |			    |
+I can store contents inside the directories |			    |
+I have just created.                        |			    |
+____________________________________________|_______________________|
+List Directory Content                      |	                    |
+				            |			    |
+As a user, I want to see the contents of the|                       |
+directory of my choice as well as the       |           5           |
+contents of its subdirectories if I choose  |                       |
+to, so that I can know the contents of a    |                       |
+directory.                                  |			    |
+____________________________________________|_______________________|
+Move Directory/File		  	    |			    |
+                     			    |			    |
+As a user, I want to move directories/files |                       |
+based on the path that I have provided, so  |           3           |
+that the directories/files is located in a  |                       |
+new location in the file system.            |			    |
+____________________________________________|_______________________|
+Copy Directory/File		    	    |			    |
+                     			    |			    |
+As a user, I want to copy directories/files |                       |
+of my choice, so that I can have two copies |           5           |
+of the same directories/files in the file   |                       |
+system.                     		    |			    |
+____________________________________________|_______________________|
+Print Content of File(s)		    |                       |
+                    			    |                       |
+As a user, I want to see the contents of    |           2           |
+the files that I have chosen, so that I     |                       |
+know the contents of any file.              |                       |
+____________________________________________|_______________________|
+Add File from URL			    |                       |
+                    			    |                       |
+As a user, I want to add a file from a URL  |                       |
+that I have given to the directory that I am|           4           |
+in so that I have a copy of an external file|                       |
+in my internal system.		            |                       |
+____________________________________________|_______________________|
+Print Text				    |                       |
+                    			    |                       |
+As a user, I want to print the text that    |           1           |
+I have entered so that I can see the text   |                       |
+in the system.			            |                       |
+____________________________________________|_______________________|
+Print Documentation of Command	            |                       |
+           				    |                       |
+As a programmer, I want to see the          |                       |
+documentation for the command,              |           1           |
+so that I can learn more about each         |                       |
+command.                                    |                       |
+____________________________________________|_______________________|
+Save JShell				    |                       |
+           				    |                       |
+As a user, I want to save the JShell  	    |           6           |
+so that my files will be saved even after   |                       |
+I turn off my computer.	                    |                       |
+____________________________________________|_______________________|
+Load JShell				    |                       |
+           				    |                       |
+As a user, I want to load the JShell so that|           6           |
+I can interact with the file system and its |                       |
+contents to perform other tasks.            |                       |
+____________________________________________|_______________________|
+Search	    				    |                       |
+           				    |                       |
+As a user, I want to search for directories |           4           |
+or files in the file system so that I can   |                       |
+know whether the directory or file I am     |                       |
+looking for exists.                         |                       |
+____________________________________________|_______________________|
+See Structure	    			    |                       |
+           				    |                       |
+As a user, I want to see the structure of   |           5           |
+the file system so that I know where all my |                       |
+directories and files are located within the|                       |
+file system.                                |                       |
+____________________________________________|_______________________|
+Print the Recent Commands		    |			    |
+                   			    |                       |
+As a user, I want to see the recent         |                       |
+commands that I have used in the terminal   |           1           |
+session, so that I know the previously used |                       |
+commands and I can reuse them accordingly.  |                       |
+____________________________________________|_______________________|
+Print Working Directory			    |			    |
+                     			    |			    |
+As a user, I want to see the whole path of  |			    |
+the current working directory, so that I    |	        1	    |
+know the exact path of the directory I am   |			    |
+in.                                         |			    |
+____________________________________________|_______________________|
+
+                  
+  
+
+
+
+
+ 
+
+
+
+
+                                            

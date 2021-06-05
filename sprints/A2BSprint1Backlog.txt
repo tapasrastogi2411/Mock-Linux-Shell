@@ -1,0 +1,75 @@
+//Sprint 1 Backlog
+November 16th to November 22nd
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to remove a directory so that the directory does not exist in the file system anymore.
+b) As a user, I want to create new directories that may be relative to the current directory 
+   or may be a full path, so that I can store contents inside the directories I have just created.
+c) As a user, I want to see the contents of the directory of my choice as well as the 
+   contents of its subdirectories if I choose to, so that I can know the contents of a directory.
+d) As a user, I want to move directories/files based on the path that I have provided, 
+   so that the directories/files is located in a new location in the file system. 
+e) As a user, I want to copy directories/files of my choice, 
+   so that I can have two copies of the same directories/files in the file system.
+f) As a user, I want to see the contents of the files that I have chosen, so that I know that contents of any file.
+g) As a user, I want to add a file from a URL that I have given to the directory that I am in 
+   so that I have a copy of an external file in my internal system.
+h) As a user, I want to print the text that I have entered so that I can see the text in the system.
+i) As a programmer, I want to see the documentation for the command, so that I can learn more about each command.
+j) As a user, I want to save the JShell so that my files will be saved even after I turn off my computer.
+k) As a user, I want to load the JShell so that I can interact with the file system and its contents to perform other tasks.
+l) As a user, I want to search for directories or files in the file system 
+   so that I can know whether the directory or file I am looking for exists.
+m) As a user, I want to see the structure of the file system 
+   so that I know where all my directories and files are located within the file system.
+
+
+Specific tasks to be accomplished:
+a-1. Create CRC Card for Remove command
+a-2. Code the Remove command
+a-3. Update ErrorChecking appropriately to take into account the new Remove command
+b-1. Update the MakeDirectory class to take in more arguments
+b-2. Update ErrorChecking class to allow the increase number of arguments
+c-1. Update the List class to take into account the recursion involving subdirectories
+d-1. Create CRC Card for Move command
+d-2. Code the Move command
+d-3. Update ErrorChecking appropriately to take into account the new Move command
+e-1. Create CRC Card for Copy command
+e-2. Code the Copy command
+e-3. Update ErrorChecking appropriately to take into account the new Copy command
+f-1. Update Concatenate class to take into account the potential of an invalid path
+f-2. Update ErrorChecking class to check for invalid path as well
+g-1. Create CRC Card for Curl command
+g-2. Code the Curl class
+g-3. Update ErrorChecking appropriately to take into account the new Curl command
+h-1. Update Echo class to just print the string given by the user
+i-1. Update PrintDocumentation class to only take in one argument
+i-2. Update ErrorChecking to only take in one argument
+j-1. Create CRC Card for SaveJShell command
+j-2. Code SaveJShell class
+j-3. Update ErrorChecking appropriately to take into account the new SaveJShell command
+k-1. Create CRC Card for LoadJShell command
+k-2. Code LoadJShell command
+k-3. Update ErrorChecking appropriately to take into account the new LoadJShell command
+l-1. Create CRC Card for Search command
+l-2. Code Search class
+l-3. Update ErrorChecking appropriately to take into account the new Search command
+m-1. Create CRC Card for Tree command
+m-2. Code Tree class
+m-3. Update ErrorChecking appropriately to take into account the new Tree command
+
+
+These tasks are assigned as follows:
+
+User: Anaqi Amir
+Tasks: a-1, a-2, j-1, j-2, j-3, k-1, k-2
+
+User: Balraj Kharol
+Tasks: a-3, b-2, d-1, d-2, d-3, e-1, e-2, e-3, g-3, i-2, k-3, l-3
+
+User: Shashwat Doshi
+Tasks: c-1, f-1, f-2, g-1, g-2, l-1, l-2
+
+User: Tapas Rastogi
+Tasks:  b-1, h-1, i-1, m-1, m-2, m-3
+

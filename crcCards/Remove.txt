@@ -1,0 +1,9 @@
+Class name: Remove
+Parent class: Commands
+Subclasses: None
+
+Responsibilities:
+* Removes the directory given by the user from the file system
+
+Collaborators:
+* FileSystem

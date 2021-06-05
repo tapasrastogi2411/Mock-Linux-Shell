@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+    - started the coding for JShell, PromptUserInput, EchoAppend, EchoOverwrite, PrintDocumentation, ChangeDirectory
+
+What do I plan to work in the next three days?
+    - Complete the code that I am responsible for which are the 6 classes mentioned above
+
+Am I blocked on anything?
+    - Some of the code can be quite challenging but I will try my best and seek help from team members if I'm particularly stuck

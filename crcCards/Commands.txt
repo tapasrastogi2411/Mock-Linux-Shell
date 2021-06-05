@@ -1,0 +1,23 @@
+Class name: Commands
+Parent class: None
+Subclasses: Exit, MakeDirectory, ChangeDirectory, List, PrintWorkingDirectory, PushDirectory,
+PopDirectory, PrintRecentCommands, Concatenate, EchoOverwrite, EchoAppend, PrintDocumentation
+
+Responsibilities: 
+* Helps to use different types of commands inside the shell
+* Executes the commands the user gives in the shell.
+* Encapsulates all the commands in one class
+
+Collaborators:
+* ErrorChecking
+* Exit
+* MakeDirectory
+* ChangeDirectory
+* List
+* PrintWorkingDirectory
+* PushDirectory
+* PopDirectory
+* PrintRecentCommands
+* Concatenate
+* EchoAppend
+* EchoOverwrite

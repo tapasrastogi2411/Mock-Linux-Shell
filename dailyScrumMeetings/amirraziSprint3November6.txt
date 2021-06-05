@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Completed the demo
+    - Worked on EchoAppend, ChangeDirectory Commands
+
+What do I plan to work in the next three days?
+    - Fully complete all coding and testing, especially the file system
+
+Am I blocked on anything?
+    - The classes that are yet to be completed hinges around the file system which our team hasn't fully gotten to work yet

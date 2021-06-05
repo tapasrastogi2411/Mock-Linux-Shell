@@ -1,0 +1,12 @@
+
+What did I work on in the last three days?
+    - finalized on the design of the program with my team members
+    - completed the CRC cards that I was responsible for
+    - started on the coding aspect of ChangeDirectory
+
+What do I plan to work in the next three days?
+    - Start and complete the coding on EchoOverwrite, EchoAppend, PrintDocumentation, and ChangeDirectory
+    - Start the coding on Shell and PromptUserInput
+
+Am I blocked on anything?
+    - I have not completed the code for ChangeDirectory as it inherits from the Commands class which our team has not completed yet

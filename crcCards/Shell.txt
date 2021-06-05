@@ -1,0 +1,11 @@
+Class name: Shell
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Interacts with the operating system.
+* provides clients access to commands.
+
+Collaborators:
+* PromptUserInput
+* FileSystem

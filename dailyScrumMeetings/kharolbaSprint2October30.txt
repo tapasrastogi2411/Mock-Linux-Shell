@@ -1,0 +1,11 @@
+a) What did I work on in the last three days?
+
+    - Came up with the pseudo code for the ErrorChecking (implmented 2 of the 4 fucntions), PushDirectory, and PopDirectory.
+
+b) What do I plan to work in the next three days?
+
+   - Start implementing the code for rest of the classes
+
+c) Am I blocked on anything?
+
+   - How to access and traverse the FileSystem tree in order to varify validity of the path, and come up with pseudo code for List.

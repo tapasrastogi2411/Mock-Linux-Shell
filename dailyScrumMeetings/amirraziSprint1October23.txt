@@ -1,0 +1,13 @@
+
+What did I work on in the last three days?
+    - worked on the user stories in the product backlog
+    - came up with tasks for each user story and designating them among our group as seen in the sprint backlog
+    - drafted a design for the program and how each class is connected to one another which is to be discussed with team tomorrow
+
+What do I plan to work in the next three days?
+    - finalize on the design of the program
+    - complete CRC Cards for EchoOverwriteCommand, EchoAppendCommand, PrintDocumentation, Shell, Commands
+    - start and complete the code for ChangeDirectory
+
+Am I blocked on anything?
+    - need to finalize on the design before moving forward with other tasks

@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Worked on crcCards for my part of the user stories 
+    - Came up with a final design 
+
+What do I plan to work in the next three days?
+    - Work on the implementation of the commands I have gotten as my part of the tasks
+
+Am I blocked on anything?
+    - Little bit confused on how the classes collaborate with one another.

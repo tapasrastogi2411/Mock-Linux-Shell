@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Finished CRC card of cp class
+    - Finished coding of cp Class
+    - Finished CRC card of mv class
+    - Finished coding of mv class
+    - Updated ErrorChecking according to the requirements of 2B 
+
+What do I plan to work in the next three days?
+    - Testing cp and mv commands along with rest of the program
+
+Am I blocked on anything?
+    - None

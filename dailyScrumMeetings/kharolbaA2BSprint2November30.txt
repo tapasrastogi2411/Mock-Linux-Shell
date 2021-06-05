@@ -1,0 +1,7 @@
+What did I work on in the last three days?
+    - Finished copy and move implementation and fixed some errors in ErrorChecking.
+
+What do I plan to work in the next three days?
+    - None
+Am I blocked on anything?
+    - None

@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Conducted error checking for some of the classes I recently worked on.
+
+What do I plan to work in the next three days?
+    - Handle other errors in List class
+    - Conduct further rigorous testing for other classes I have worked on
+
+Am I blocked on anything?
+    - None

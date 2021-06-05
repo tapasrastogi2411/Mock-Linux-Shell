@@ -1,0 +1,23 @@
+a) What did I work on in the last three days? 
+
+   - Collaborated with my teammates to finish the Sprint Backlog and the Product Backlog for A2B
+
+   - Finished the CRC cards for the Tree command class
+
+   - Added a few new methods in FileSystem to help implement the tree command class
+
+ 
+b) What do I plan to work in the next three days? 
+
+   - Finish coding for the Tree command class
+
+   - Add the new features for the MakeDirectory, Echo and PrintDocumentation classes
+
+   - Update ErrorChecking to account for the tree class 
+
+  
+c) Am I blocked on anything? 
+
+   - Coding for the Tree class
+    
+    

@@ -1,0 +1,11 @@
+Class Name: PopDirectory 
+Parent Class: Commands
+Subclasses: None
+
+Responsibilities:
+* Removes the top most directory from the directory stack and makes it the current working directory 
+
+Collaborators:
+* ChangeDirectory
+* Directory
+* FileSystem

@@ -1,0 +1,10 @@
+Class name: ErrorChecking
+Parent class : None
+Subclasses : None
+
+Responsibilities:
+* Displays an appropriate message/error to the shell based on if the command and/or address is invalid.
+
+Collaborators:
+* Commands
+* PromptUserInput

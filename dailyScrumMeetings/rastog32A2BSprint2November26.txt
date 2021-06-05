@@ -1,0 +1,23 @@
+a) What did I work on in the last three days? 
+
+    - Finished coding for the Tree command class for file objects
+
+    - Added the new features for the MakeDirectory classes and accounted for edge cases from A2A feedback
+
+    - Worked on saveJShell with my teammates
+
+ 
+b) What do I plan to work in the next three days? 
+
+    - Start working on JUnit testing for the classes
+
+    - Finish the -R specification of the list command
+
+    - Redirection for MakeDirectory command
+
+  
+c) Am I blocked on anything? 
+
+   - None
+    
+    

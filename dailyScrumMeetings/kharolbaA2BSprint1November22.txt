@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+    - Finished testing for cp, mv, and ErrorChecking
+
+What do I plan to work in the next three days?
+    - Planning to test some of the other commands.
+
+Am I blocked on anything?
+    - None

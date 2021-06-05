@@ -1,0 +1,12 @@
+Class name: ChangeDirectory
+Parent class: Commands
+Subclasses: None
+
+Responsibilities:
+* Change directory to argument directory, which may be relative to the current directory or may be
+a full path.
+* To identify the argument: .. helps to go to parent directory, and the . argument which helps to
+stay in the current directory
+
+Collaborators:
+* FileSystem

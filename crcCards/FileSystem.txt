@@ -1,0 +1,10 @@
+Class Name: FileSystem 
+Parent Class: None
+Subclasses: None
+
+Responsibilities:
+* Helps maintain the Files and Directories together.
+
+Collaborators:
+* File
+* Directory

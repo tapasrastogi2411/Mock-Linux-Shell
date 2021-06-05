@@ -1,0 +1,15 @@
+a) What did I work on in the last three days?
+
+    - Finalized the design to implement for the mock system.
+    - Created CRC Cards for MakeDirectory, Exit, ChangeDirectory, PathParser classes
+    - Started coding for Exit class
+
+b) What do I plan to work in the next three days?
+
+   - Start working on coding for PrintWorkingDirectory, Exit, StoreCurrentWorkingDirectory,
+    Concatenate, PathParser classes
+
+c) Am I blocked on anything?
+
+   - How to use different classes which are listed as collaborators for coding for my particular
+   class.

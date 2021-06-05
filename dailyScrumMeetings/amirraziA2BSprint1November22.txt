@@ -1,0 +1,12 @@
+
+What did I work on in the last three days?
+    - started working on saveJShell and loadJShell
+
+What do I plan to work in the next three days?
+    - complete saveJShell and loadJShell
+    - start working on the redirection feature for the commands that produce STDOUT
+    - start testing for classes from 2A
+
+Am I blocked on anything?
+    - how to save and load the JShell, need to go review lecture material to find out
+    - need to review how to do JUnit test as well

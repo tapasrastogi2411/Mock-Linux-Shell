@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - The design of the program
+    - The structure of the different classes needed for writing the CRC Cards
+
+What do I plan to work in the next three days?
+    - Review and update(if necessary) the CRC Cards for the ExitCommand Class
+    - Review and update(if necessary) the CRC Cards for the MakeDirectoryCommand Class
+    - Review and update(if necessary) the CRC Cards for ChangeDirectoryCommand Class
+    - Review and update(if necessary) the CRC Cards for the PathParser Class
+
+Am I blocked on anything?
+    - None. Clarification received.

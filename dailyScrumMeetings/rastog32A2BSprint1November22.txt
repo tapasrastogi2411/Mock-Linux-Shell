@@ -1,0 +1,23 @@
+a) What did I work on in the last three days? 
+
+   - Finished tree command for directories
+
+   - Finished print documentation for tree
+
+   - Finished traverse method for FileSystem to be used for save and load JShell methods
+
+ 
+b) What do I plan to work in the next three days? 
+
+   - Finish coding for the Tree command class for file objects
+
+   - Add the new features for the MakeDirectory classes and account for edge cases from A2A feedback
+
+   - Update ErrorChecking to account for the tree class and redirection for tree class 
+
+  
+c) Am I blocked on anything? 
+
+   - Including files in tree method
+    
+    

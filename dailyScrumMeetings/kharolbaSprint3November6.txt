@@ -1,0 +1,11 @@
+a) What did I work on in the last three days?
+
+    - Finished PrintRecentCommands (history) and fixed some of the errors in ErrorChecking
+
+b) What do I plan to work in the next three days?
+
+   - Start working on pushd and popd which is to be mergerd in one directory stack class.
+
+c) Am I blocked on anything?
+
+   - How to deal with errors of echo if the string inputted by the user contains ">" and double quotation marks.

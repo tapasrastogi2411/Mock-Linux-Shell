@@ -1,0 +1,12 @@
+Class name: SaveJShell
+Parent class: Commands
+Subclasses: None
+
+Responsibilities:
+* Saves the JShell into a specified file given by the user so that the user can
+  access the JShell and its contents at a later time even after JShell has been
+  terminated
+
+Collaborators:
+*FileSystem
+*PromptUserInput

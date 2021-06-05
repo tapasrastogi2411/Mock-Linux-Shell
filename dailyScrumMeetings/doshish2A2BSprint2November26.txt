@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Conducted error checking for some of the classes I recently worked on.
+    - Worked on redirection for commands that produce STDOUT
+
+What do I plan to work in the next three days?
+    - Conduct further rigorous testing for other classes I have worked on
+    - Add additional features for search class
+
+Am I blocked on anything?
+    - None

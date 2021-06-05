@@ -1,0 +1,12 @@
+Class Name: Move
+Parent Class: Copy
+Subclasses: None
+
+Responsibilities:
+* Copy the items from one directory to another and delete the item from old directory.
+
+Collaborators:
+* Remove
+* Directory
+* Files
+* FileSystem

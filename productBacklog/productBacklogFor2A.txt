@@ -1,0 +1,139 @@
+
+____________________________________________________________________
+             User Stories                   |  Time Estimate(hours) |
+____________________________________________|_______________________|                                       
+Exit the Program			    |			    |
+         				    |                	    |   
+As a user, I want to quit the program,      |	        2           |
+so that it does not run in the background.  |			    |
+____________________________________________|_______________________|
+Make Two New Directories		    |			    |
+					    |			    |
+As a user, I want to create two directories |			    |
+that may be relative to the current         |		4	    |
+directory or may be a full path, so that    |			    |
+I can store contents inside the directories |			    |
+I have just created.                        |			    |
+____________________________________________|_______________________|
+Change Directory			    |			    |
+                          		    |			    |
+As a user, I want to change directory which |		3	    |
+may be relative to the current directory or |			    |
+may be a full path, so I can access any     |			    |
+desired directories.                        |			    |
+____________________________________________|_______________________|
+List Directory Content                      |	                    |
+				            |			    |
+As a user, I want details of all the files  |			    |
+and folders of the current directory I am   |		2	    |
+in or a directory given as a full or        |                       |
+relative path, so that I can see the list   |                       | 
+of files and folders within the appropriate |                       |
+directory                                   |			    |
+____________________________________________|_______________________|
+Print Working Directory			    |			    |
+                     			    |			    |
+As a user, I want to see the whole path of  |			    |
+the current working directory, so that I    |	        2	    |
+know the exact path of the directory I am   |			    |
+in.                                         |			    |
+____________________________________________|_______________________|
+Save the Directory			    |			    |
+                          		    |			    |
+As a user, I want to save the current       |			    |
+working directory, so that my current       |	        4	    |
+working directory gets updated to the new   |			    |
+directory and I can access it later if I    |			    |
+want.                                       |			    |
+____________________________________________|_______________________|
+Access the Latest Saved Directory	    |			    |
+           			   	    |			    |
+As a user, I want to access the latest      |			    |
+saved directory, so that I can get my       |	        4	    |
+current working directory to become that    |			    |
+directory.                                  |			    |
+____________________________________________|_______________________|
+Print the Recent Commands		    |			    |
+                   			    |                       |
+As a user, I want to see the recent         |                       |
+commands that I have used in the terminal   |          6            |
+session, so that I know the previously used |                       |
+commands and I can reuse them accordingly.  |                       |
+____________________________________________|_______________________|
+Print Content of File(s)		    |                       |
+                    			    |                       |
+As a user, I want to see the contents of    |          2            |
+the files that I have chosen, so that I     |                       |
+know that contents of any file.             |                       |
+____________________________________________|_______________________|
+Overwrite a File			    |                       |
+                            		    |                       |
+As a user, I want to overwrite a file with  |                       |
+line(s) of text, so that I can update the   |          3            |
+file with new content, overwriting all      |                       |
+pre-existing content of file.               |                       |
+____________________________________________|_______________________|
+Add Content to a File			    |                       |
+                       			    |                       |
+As a user, I want to add new line(s) of text|                       |
+into a file, so that I have new content     |          3            |
+added along with the pre-existing content   |                       |
+of the file.                                |                       |
+____________________________________________|_______________________|
+Print Documentation of Command(s)	    |                       |
+           				    |                       |
+As a programmer, I want to see the          |                       |
+documentation for the command(s),           |          2            |
+so that I can learn more about each         |                       |
+command(s).                                 |                       |
+____________________________________________|_______________________|
+File System                                 |                       |
+                                            |                       |
+As a user, I want to maintain the files and |                       |
+directories together in the mock file       |          3            |
+system, so that I can navigate through the  |                       | 
+contents of the file system                 |                       |
+____________________________________________|_______________________|
+Path Parser                                 |                       |
+                                            |                       |
+As a user, I want to identify if the path   |                       |
+passed as an argument to a command is passed|                       | 
+relatively or absolutely, so that I can     |          3            | 
+account for the directories in context of   |                       | 
+the commands that maybe relative to the     |                       | 
+current directory or maybe a full path      |                       | 
+____________________________________________|_______________________|
+Prompt User Input                           |                       | 
+                                            |                       | 
+As a user, I want the shell to continually  |                       | 
+prompt me for input, so that I can have     |                       |
+continuous access to a command line         |          4            |
+interpreter                                 |                       |
+____________________________________________|_______________________|
+Shell                                       |                       | 
+                                            |                       | 
+As a user, I want an interface that allows  |                       |
+me to access all the commands, so that I    |          2            |
+can execute required commands to complete   |                       |
+my tasks                                    |                       |  
+____________________________________________|_______________________| 
+Error Checking/Handling                     |                       |
+                                            |                       | 
+As a user, I want an appropriate error      |                       | 
+message displayed in the shell when I have  |                       | 
+passed an invalid commmand/path, so that I  |         6             |  
+am aware that I have made said error in     |                       | 
+passing the command/path, enabling me to    |                       | 
+hereby pass a valid command/path            |                       | 
+____________________________________________|_______________________|                   
+  
+
+
+
+
+ 
+
+
+
+
+                                            

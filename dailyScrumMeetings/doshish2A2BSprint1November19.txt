@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Finished CRC card of Curl class
+    - Finished coding of Curl Class
+    - Finished CRC card of Search class
+    - Finished coding of Search class
+    - Handled other cases for Concatenate class
+    - Handled error checking for Concatenate class
+
+What do I plan to work in the next three days?
+    - Handle other errors in List class
+    - Conduct further rigorous testing for classes I have worked on
+
+Am I blocked on anything?
+    - None

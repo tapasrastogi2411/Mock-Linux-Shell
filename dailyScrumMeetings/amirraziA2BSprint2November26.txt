@@ -1,0 +1,11 @@
+
+What did I work on in the last three days?
+    - fixed echo and other commands that needed redirection
+    - helped team member optimize the tree command so that it is more generalized and can  	help in the development of save and load
+
+What do I plan to work in the next three days?
+    - complete saveJShell and loadJShell
+    - start testing for classes from 2A
+
+Am I blocked on anything?
+    - Need to look out for minor bugs and edge cases

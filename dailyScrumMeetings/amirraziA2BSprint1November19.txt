@@ -1,0 +1,11 @@
+
+What did I work on in the last three days?
+    - completed the Remove command
+    - started working on saveJShell and loadJShell
+    - completed the crcCards for the 3 classes mentioned above
+
+What do I plan to work in the next three days?
+    - complete saveJShell and loadJShell
+
+Am I blocked on anything?
+    - how to save and load the JShell, need to go review lecture material to find out

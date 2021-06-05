@@ -1,0 +1,12 @@
+Class name: PushDirectory
+Parent class: Commands
+Subclasses: none
+
+Responsibilities:
+* Saves the current working directory by pushing onto directory stack and then changes the new current working directory to the provided path/directory
+* Saves the old current working directory in directory stack so that it can be returned to at any time.
+
+Collaborators:
+* FileSystem
+* Directory
+* ChangeDirectory

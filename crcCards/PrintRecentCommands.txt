@@ -1,0 +1,10 @@
+Class Name: PrintRecentCommands 
+Parent Class: Commands
+Subclasses: None
+
+Responsibilities:
+* Prints out the most recent commands entered by the user in the shell, one command per line, in two columns
+
+Collaborators:
+* PromptUserInput
+* Redirection

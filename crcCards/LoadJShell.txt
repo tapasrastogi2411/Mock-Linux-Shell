@@ -1,0 +1,11 @@
+Class name: LoadJShell
+Parent class: Commands
+Subclasses: None
+
+Responsibilities:
+* Loads the JShell and its contents so that the user can access these contents
+
+Collaborators:
+*PromptUserInput
+*ErrorChecking
+*FileSystem

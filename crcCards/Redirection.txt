@@ -1,0 +1,10 @@
+Class name: Redirection
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Redirects the output produced by each command from stdout to respective file.
+
+Collaborators:
+* FileSystem
+* File

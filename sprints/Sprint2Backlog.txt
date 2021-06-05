@@ -1,0 +1,78 @@
+//Sprint 2 Backlog
+October 28th to November 3rd
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to quit the program, so that it does not run in the background.
+b) As a user, I want to create two directories that may be relative to the current directory or may
+   be a full path, so that I can store contents inside the directories I have just created.
+c) As a user, I want to change directory which may be relative to the current directory or may be a
+   full path, so I can access any desired directories.
+d) As a user, I want details of all the files and folders of the current directory I am in or a
+   directory given as a full or relative path, so that I can see the list of files and folders
+   within the appropriate directory
+e) As a user, I want to see the whole path of the current working directory, so that I know the
+   exact path of the directory I am in.
+f) As a user, I want to save the current working directory, so that my current working directory
+   gets updated to the new directory and I can access it later if I want.
+g) As a user, I want to access the latest saved directory, so that I can get my current working
+   directory to become that directory.
+h) As a user, I want to see the recent commands that I have used in the terminal session, so that I
+   know the previously used commands and I can reuse them accordingly.
+i) As a user, I want to see the contents of the files that I have chosen, so that I know that
+   contents of any file.
+j) As a user, I want to overwrite a file with line(s) of text, so that I can update the file with
+   new content, overwriting all pre-existing content of file.
+k) As a user, I want to add new line(s) of text into a file, so that I have new content added along
+   with the pre-existing content of the file. (add content to a file)
+l) As a programmer, I want to see the documentation for the command(s), so that I can learn more
+   about each command(s).
+m) As a user, I want to maintain the files and directories together in the mock filesystem, so that I can navigate  
+   through the contents of the file system
+n) As a user, I want the shell to continually prompt me for input, so that I can have continuous access to a command  
+   line interpreter
+o) As a user, I want to identify if the path passed as an argument to a command is passed relatively or absolutely, so 
+   that I can account for the directories in context of the commands that maybe relative to the current directory or maybe a full path
+p) As a user, I want an interface that allows  me to access all the commands, so that I can execute required
+   commands to complete my tasks
+q) As a user, I want an appropriate error message displayed in the shell when I have passed an invalid commmand/path, so
+   that I am aware that I have made said error in passing the command/path, enabling me to hereby pass a valid command/path
+
+
+Specific tasks to be accomplished:
+a-1: Work on coding part for the Exit Class
+b-1: Work on coding part for the MakeDirectory Class
+c-1: Work on coding part for the ChangeDirectory Class
+d-1: Work on coding part for the List Class
+e-1: Work on coding part for the PrintWorkingDirectory Class
+e-2: Work on coding part for the StoreCurrentWorkingDirectory Class
+f-1: Work on coding part for the PushDirectory Class
+g-1: Work on coding part for the PopDirectory Class
+h-1: Work on coding part for the PrintRecentCommands Class
+i-1: Work on coding part for the Concatenate Class
+j-1: Work on coding part for the EchoOverwrite Class
+k-1: Work on coding part for the EchoAppend Class
+l-1: Work on coding part for the PrintDocumentation Class
+m-1: Work on coding part for the File Class
+m-2: Work on coding part for the Directory Class
+m-3: Work on coding part for the FileSystem Class
+n-1: Work on coding part for the PromptUserInput Class
+o-1: Work on coding part for the PathParser Class
+p-1: Work on coding part for the Shell Class
+p-2: Work on coding part for the Commands Class
+q-1: Work on coding part for the ErrorChecking Class
+
+
+These tasks are assigned as follows:
+
+User: Anaqi Amir
+Tasks: c-1, j-1, k-1, l-1, n-1, p-1
+
+User: Balraj Kharol
+Tasks: d-1, f-1, g-1, h-1, q-1
+
+User: Shashwat Doshi
+Tasks: a-1, e-1, e-2, i-1 , o-1
+
+User: Tapas Rastogi
+Tasks: b-1, m-1, m-2, m-3, p-2
+

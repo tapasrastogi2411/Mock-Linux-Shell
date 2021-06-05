@@ -1,0 +1,22 @@
+Class Name: PrintDocumentation
+Parent Class: Commands
+Subclasses: None
+
+Responsibilities: 
+* Prints the documentation of the command(s) that was given by the user in the order that they were given
+* If the (or one of) the commands does not exist, print "Command Does Not Exist"
+
+Collaborators:
+* Exit
+* MakeDirectory
+* ChangeDirectory
+* List
+* PrintWorkingDirectory
+* PushDirectory
+* PopDirectory
+* PrintRecentCommands
+* Concatenate
+* EchoAppend
+* EchoOverwrite
+* PrintDocumentation
+* Redirection

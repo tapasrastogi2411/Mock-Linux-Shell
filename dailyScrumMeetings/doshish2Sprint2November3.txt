@@ -1,0 +1,14 @@
+a) What did I work on in the last three days?
+
+    - Finished coding the features of List, Concatenate and finished error checking for most
+    of the classes.
+    - Figured out how to store the current working directory.
+
+b) What do I plan to work in the next three days?
+
+   - Complete further error checking for each of the classes, and help other colleagues in coding
+   file and directory classes.
+
+c) Am I blocked on anything?
+
+   - How to figure out the tree structure for the file system.

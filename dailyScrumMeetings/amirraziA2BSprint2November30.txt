@@ -1,0 +1,12 @@
+
+What did I work on in the last three days?
+    - Completed all the commands that I was in charged of: save, load, redirection, echo
+    - Updated necessary CRC cards
+    - Assisted in testing the commands
+    - Assisted in debugging some other commands with team members 
+
+What do I plan to work in the next three days?
+    - 
+
+Am I blocked on anything?
+    - 

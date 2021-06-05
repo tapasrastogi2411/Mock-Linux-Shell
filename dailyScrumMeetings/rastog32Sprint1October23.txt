@@ -1,0 +1,22 @@
+a) What did I work on in the last three days? 
+
+   - brainstormed ideas on which design we will be incorporating for this assignment considering the new requirements and the commands, after taking into consideration the two CRC Cards designs which were done by the two groups in our team for the previous assignment
+
+   - Finished the product backlog by brainstorming all the user stories which will be required for this assignment
+
+   - Finished the sprint backlog, breaking down all the user stories we plan to tackle into specific tasks, and delegating these tasks equally to all the group members for efficient work
+
+   b) What do I plan to work in the next three days? 
+
+    - Start working on implementing the coding part for the MakeDirectoryCommand Class
+
+    - Add CRC Cards for PushDirectory and PopDirectory Commands as per the design which was discussed by the group
+
+    - Review and update(if necessary) the ConcatenateCommand, File, Directory, FileSystem Commands classes which was already implemented and designed as part of A1, incorporate any new changes that might be needed due to the different client requirements
+
+    - Finalise the design of the program by covering any changes which we feel might need to incorporate
+
+    c) Am I blocked on anything? 
+
+    - Understanding how to go about implementing the coding part of the various commands of our mock file system
+    

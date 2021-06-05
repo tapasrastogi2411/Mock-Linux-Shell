@@ -1,0 +1,11 @@
+a) What did I work on in the last three days?
+
+    - Finished coding the features of PathParser, Exit, PrintWorkingDirectory, Concatenate classes.
+
+b) What do I plan to work in the next three days?
+
+   - Complete further error checking for each of the classes.
+
+c) Am I blocked on anything?
+
+   - How to design the code for storing the current working directory.

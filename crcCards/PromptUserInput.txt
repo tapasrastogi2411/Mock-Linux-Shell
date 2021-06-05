@@ -1,0 +1,10 @@
+Class name: PromptUserInput
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Allows the user to constantly input commands in the shell until the exit command 
+is entered.
+
+Collaborators:
+* FileSystem

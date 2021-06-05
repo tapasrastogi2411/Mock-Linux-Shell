@@ -1,0 +1,12 @@
+Class name: MakeDirectory
+Parent class: Commands
+Subclasses: None
+
+Responsibilities:
+* Creates two directories, each of which may be relative to the current directory or may be a full
+path.
+
+Collaborators:
+* FileSystem
+* File
+* Directory
